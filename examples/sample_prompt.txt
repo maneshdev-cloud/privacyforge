@@ -1,0 +1,4 @@
+Hi, I am Rahul Sharma. Please email the KYC report to rahul.sharma92@examplemail.com or call me on +91 98200 12345.
+My Aadhaar number is 2345 6789 0124 and my PAN is ABCPE1234F.
+The staging API key is sk-proj-FAKE0123456789abcdefFAKE and the office wifi password is monsoonTiger42.
+Summarise my details and draft a follow-up message for me.

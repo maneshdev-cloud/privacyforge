@@ -1,0 +1,6 @@
+# PrivacyForge core has NO third-party dependencies (Python 3.10+ stdlib only).
+# Optional, only for the HTTP proxy in privacyforge/app.py:
+#   fastapi
+#   uvicorn
+# For running the test suite:
+#   pytest
